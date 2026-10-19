@@ -113,3 +113,8 @@ Namecheap itself was unreachable from this sandbox. An open lookup doesn't rule 
 | **thehousehold.ai** | still open |
 
 No company or app called "Oikonomia" turned up in a web search. Nearby players in AI-for-households: Ohai.ai (ex-Care.com CEO), Heima, Nori.
+
+### Round 3: "Oiko" (checked 2026-10-19)
+Open: **oiko.house**, **oiko.family**, oikohq.com, heyoiko.com, joinoiko.com, usoiko.com.
+Taken: oiko.com, oiko.ai, oiko.app, oiko.studio, oiko.dev, getoiko.com, myoiko.com, oikoapp.com, oikohome.com.
+No company or app called exactly "Oiko" showed up in search. Nearby names: Oko (an AI app for blind and low-vision users), the Oikos community-app platform, and Danone's Oikos yogurt. Get a trademark check before committing.
