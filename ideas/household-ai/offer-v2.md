@@ -96,3 +96,20 @@ Unregistered at check time. Namecheap prices are typical list prices: .com about
 | householdai.com, aihousehold.com, getfamiliar.com, familiar.ai, housecall.ai, aicurious.com | taken | |
 
 Namecheap itself was unreachable from this sandbox. An open lookup doesn't rule out registry "premium" pricing, so confirm the price on Namecheap before buying.
+
+### Round 2: Householder / Oikonomia (checked 2026-10-19)
+*Oikonomia* is ancient Greek for "household management," the root of the word *economy*.
+
+| Domain | Status |
+|---|---|
+| **goodhouseholder.com**, **thegoodhouseholder.com** | open |
+| **goodhouseholder.ai** / .app / .house / .studio | open |
+| **householder.house** / .studio | open |
+| householder.com / .ai / .app | taken |
+| **oikonomia.house**, **oikonomia.studio** | open |
+| **oikonomiahq.com**, **oikonomialab.com**, **oikonomiaai.com** | open |
+| **oikonomos.ai** ("household steward") | open |
+| oikonomia.com / .ai / .app, oikos.com / .ai | taken |
+| **thehousehold.ai** | still open |
+
+No company or app called "Oikonomia" turned up in a web search. Nearby players in AI-for-households: Ohai.ai (ex-Care.com CEO), Heima, Nori.
